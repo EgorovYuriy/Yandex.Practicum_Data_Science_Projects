@@ -13,10 +13,11 @@
 
 Заказчику важны:
 
-качество предсказания;
-скорость предсказания;
-время обучения.
+- качество предсказания;
+- скорость предсказания;
+- время обучения.
 
-## Используемые библиотеки
-*pandas*,*numpy*,*matplotlib*,*seaborn*,*sklearn*,*pipeline*,*catboost*,*xgboost*,*lightgbm*
+## Используемые библиотеки:
+
+*pandas*, *numpy*, *matplotlib*, *seaborn*, *sklearn*, *pipeline*, *catboost*, *xgboost*, *lightgbm*
 
